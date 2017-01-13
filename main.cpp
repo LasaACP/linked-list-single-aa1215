@@ -87,7 +87,7 @@ int main()
 
 
    // Initialize Linked List
-   
+   List<Double> list = new LinkedList<Double>(Arrays.asList(1.2,1.3,3.2));
    // 
 
     
