@@ -16,9 +16,9 @@ using namespace std;
 class Airport
 {
 public:
-    char    code[5];
-    double   longitude;
-    double   latitude;
+    char   code[5];
+    double longitude;
+    double latitude;
     
 };
 
@@ -131,9 +131,9 @@ double distanceEarth(double lat1d, double lon1d, double lat2d, double lon2d) {
 
 
 
-/*
+//complete this
 void simpleSortTotal()
 {
 
 }
-*/
+
